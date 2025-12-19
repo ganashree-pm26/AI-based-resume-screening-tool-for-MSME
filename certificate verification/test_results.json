@@ -1,0 +1,12 @@
+[
+  {
+    "test": 1,
+    "image": "C:\\Users\\aishw\\Downloads\\hackathon\\certificate (2).jpg",
+    "passed": true,
+    "extracted": {
+      "name": "DHRUTHI RUDRANGI",
+      "course": "Introduction to Graph Algorithms",
+      "score": 93
+    }
+  }
+]
